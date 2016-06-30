@@ -1,0 +1,56 @@
+body {
+	background-color : #f9c270;
+	margin-top : 30px;
+	margin-right : 250px;
+	margin-bottom : 30px;
+	margin-left : 250px;
+}
+h2 {
+	background-color : #ef845c;
+	font-size : 50px;
+	line-height : 60px;
+}
+h3 {
+	font-size : 22px;
+}
+p.content {
+	word-wrap : break-word;
+	width : 600px;
+	font-size : 18px;
+}
+p.announce {
+	color : #ff0000;
+	text-align : center;
+	font-size : 20px;
+}
+p.error {
+	color : #ff0000;
+}
+p.entrance {
+	margin-top : 250px;
+	font-size : 24px;
+	text-align : center;
+}
+p.registerError {
+	margin : 3px;
+	font-size : 13px;
+	color : #ff0000;
+}
+table.register {
+	text-align : left;
+	margin-bottom : 30px;
+}
+td.index {
+	white-space : nowrap;
+}
+textarea {
+	resize : vertical;
+}
+div.right {
+	font-size : 15px;
+	text-align : right;
+}
+div.confirm {
+	text-align : center;
+	font-size : 20px;
+}
